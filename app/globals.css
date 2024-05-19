@@ -34,5 +34,5 @@ body {
 
 @font-face{
   font-family: "burtons";
-  src: url('../public/burtons.otf')
+  src: url('/burtons.otf')
 }
