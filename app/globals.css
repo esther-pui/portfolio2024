@@ -26,13 +26,18 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
 }
-
 @font-face {
-  font-family: "outfit";
-  src: url('/outfit.ttf');
+  font-family: "prata";
+  src: url('/prata.ttf');
 }
