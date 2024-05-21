@@ -40,7 +40,7 @@ export default function About() {
                 My main focus these days is seamlessly integrating both backend and frontend elements based on UI design.
                 <br></br>
                 <br></br>
-                During my freetime, I like to practice in 3d, motion (three.js, webgl, blender) and digital illustration (clipart studio).
+                During my freetime, I like to practice in 3d, motion (three.js, webgl, blender) and digital illustration.
 
                 <br></br>
                 <br></br>
