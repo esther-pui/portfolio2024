@@ -10,10 +10,10 @@ export default function Navbar() {
            
             <ul className='sm:flex items-center hidden'>
               <li>
-              <a className=' text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="/connect">get in touch</a>
+                <a className=' text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="#">download resume</a>
               </li>
               <li>
-                <a className=' text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="#">download resume</a>
+              <a className=' text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="/connect">get in touch</a>
               </li>
               <li>
                 <Link className='text-the-red hover:text-the-off-white hover:bg-the-red transition duration-300' href="/about">about me</Link>
