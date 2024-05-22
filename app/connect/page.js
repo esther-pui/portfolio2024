@@ -27,12 +27,12 @@ export default function Connect() {
           <div class="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
           <div className="flex flex-col lg:justify-center lg:flex-row">
             <Link 
-              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
+              className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
               href="/mail"
               target="_blank" rel="noopener noreferrer"
             >MAIL</Link>
             <Link 
-              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
+              className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
               href="https://www.linkedin.com/in/esther-pui/"
               target="_blank" rel="noopener noreferrer"
             >LINKEDIN</Link>
@@ -49,14 +49,14 @@ export default function Connect() {
           <div class="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
           <div className="flex flex-col lg:justify-center lg:flex-row">
             <Link 
-              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
+              className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
               href="https://www.instagram.com/esther_pui/"
               target="_blank" rel="noopener noreferrer"
             >INSTAGRAM</Link>
             
             <Link 
               className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
-              href="https://esther-pui.blogspot.com/"
+              href="https://cup-of-esther.blogspot.com/"
               target="_blank" rel="noopener noreferrer"
             >BLOG</Link>
           </div>
