@@ -28,8 +28,9 @@ export default function Connect() {
           <div className="flex flex-col lg:justify-center lg:flex-row">
             <Link 
               className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
-              href="/mail"
-            >MAIL</Link>
+              href="https://www.estherpui.com"
+              target="_blank" rel="noopener noreferrer"
+            >PORTFOLIO</Link>
             <Link 
               className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
               href="https://www.linkedin.com/in/esther-pui/"
