@@ -5,7 +5,7 @@ const outfit = Outfit({ weight: "300", subsets: ["latin"] });
 
 export const metadata = {
   title: "Esther Pui's Portfolio",
-  description: "Compilation of works showcases by Esther Pui.",
+  description: "A collection of Esther Pui's showcased works.",
 };
 
 export default function RootLayout({ children }) {
