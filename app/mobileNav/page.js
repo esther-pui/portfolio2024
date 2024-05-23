@@ -37,8 +37,8 @@ export default function MobileNav() {
                     >PORTFOLIO</Link>
                     <Link 
                         className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
-                        href="/connect"
-                    >CONNECT</Link>
+                        href="/mail"
+                    >CONTACT</Link>
                     <Link 
                     className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
                     href="/about"
