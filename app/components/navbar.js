@@ -15,9 +15,6 @@ export default function Navbar() {
                         <a className='text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="/portfolio">portfolio</a>
                     </li>
                     <li>
-                        <a className='text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="#">resume</a>
-                    </li>
-                    <li>
                         <a className='text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="/connect">connect</a>
                     </li>
                     <li>
