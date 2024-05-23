@@ -35,7 +35,7 @@ export default function About() {
               <p className="font-prata text-2xl lg:text-4xl text-the-red text-center lg:text-left">Esther Pui</p>
               <p className="text-lg text-the-red text-center lg:text-left">Full-stack developer</p>
               <p className="text-the-red text-center mb-10 lg:text-left">(React, Laravel)</p>
-              <p className="text-the-red text-center lg:text-left">
+              <p className="text-the-red text-center mb-8 lg:text-left">
                 Proud Sarawakian currently living in Kuala Lumpur, Malaysia.
                 My main focus these days is seamlessly integrating both backend and frontend elements based on UI design.
                 <br></br>
@@ -46,6 +46,30 @@ export default function About() {
                 When I’m not at the computer,
                 I’m usually cooking, reading, hanging out with my cat, or persuading myself to hit the gym.
               </p>
+              <div class="border-t border-the-red mb-3 mx-auto"></div>
+              <div className="flex flex-col lg:flex-row lg:justify-between">
+                <Link 
+                  className='italic font-prata text-the-red text-center lg:mr-2' 
+                  href="https://www.linkedin.com/in/esther-pui/"
+                  target="_blank" rel="noopener noreferrer"
+                >LINKEDIN</Link>
+                <Link 
+                  className='italic font-prata text-the-red text-center lg:mr-2' 
+                  href="https://twitter.com/esther__pui"
+                  target="_blank" rel="noopener noreferrer"
+                >TWITTER</Link>
+                <Link 
+                  className='italic font-prata text-the-red text-center lg:mr-2' 
+                  href="https://www.instagram.com/esther_pui/"
+                  target="_blank" rel="noopener noreferrer"
+                >INSTAGRAM</Link>
+                <Link 
+                  className='italic font-prata text-the-red text-center'
+                  href="https://cup-of-esther.blogspot.com/"
+                  target="_blank" rel="noopener noreferrer"
+                >BLOG</Link>
+              </div>
+              
             </div>
           </section>
         </div>
