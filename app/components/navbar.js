@@ -12,6 +12,9 @@ export default function Navbar() {
             <div className="flex">
                 <ul className={`sm:flex items-center hidden sm:mr-4`}>
                     <li>
+                        <a className='text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="/portfolio">portfolio</a>
+                    </li>
+                    <li>
                         <a className='text-the-red mr-6 hover:text-the-off-white hover:bg-the-red transition duration-300' href="#">resume</a>
                     </li>
                     <li>

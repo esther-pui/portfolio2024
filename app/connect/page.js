@@ -29,7 +29,6 @@ export default function Connect() {
             <Link 
               className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
               href="/mail"
-              target="_blank" rel="noopener noreferrer"
             >MAIL</Link>
             <Link 
               className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
