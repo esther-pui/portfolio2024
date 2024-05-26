@@ -48,17 +48,40 @@ export default function Connect() {
           <p className="font-prata text-the-red text-center">get to know me personally</p>
           <div class="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
           <div className="flex flex-col lg:justify-center lg:flex-row">
-            <Link 
-              className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
-              href="https://www.instagram.com/esther_pui/"
-              target="_blank" rel="noopener noreferrer"
-            >INSTAGRAM</Link>
             
             <Link 
               className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
               href="https://cup-of-esther.blogspot.com/"
               target="_blank" rel="noopener noreferrer"
             >BLOG</Link>
+
+            <Link 
+              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
+              href="https://open.spotify.com/user/obh93op0okdbw85vr30dryp3s?si=2782a3188abc47ee"
+              target="_blank" rel="noopener noreferrer"
+            >SPOTIFY</Link>
+
+            <Link 
+              className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
+              href="https://www.instagram.com/esther_pui/"
+              target="_blank" rel="noopener noreferrer"
+            >INSTAGRAM</Link>
+          </div>
+          <div className="flex flex-col lg:justify-center lg:flex-row">
+
+            <Link 
+              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
+              href="https://www.instagram.com/beixxiang/"
+              target="_blank" rel="noopener noreferrer"
+            >INSTAGRAM (ART)</Link>
+
+            <Link 
+              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
+              href="https://www.instagram.com/cat_jujube/"
+              target="_blank" rel="noopener noreferrer"
+            >INSTAGRAM (CAT)</Link>
+
+            
           </div>
         </section>
       </div>
