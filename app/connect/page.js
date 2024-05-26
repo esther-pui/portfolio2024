@@ -73,13 +73,13 @@ export default function Connect() {
               className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
               href="https://www.instagram.com/beixxiang/"
               target="_blank" rel="noopener noreferrer"
-            >INSTAGRAM (ART)</Link>
+            >INSTA - ART</Link>
 
             <Link 
               className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
               href="https://www.instagram.com/cat_jujube/"
               target="_blank" rel="noopener noreferrer"
-            >INSTAGRAM (CAT)</Link>
+            >INSTA - CAT</Link>
 
             
           </div>
