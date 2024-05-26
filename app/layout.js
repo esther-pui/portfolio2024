@@ -21,6 +21,17 @@ export default function RootLayout({ children }) {
             gtag('config', 'G-MS0BMXHD6C');
           `
         }} />
+
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4F9MCSZJ29"></script>
+        <script dangerouslySetInnerHTML={{
+          __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-4F9MCSZJ29');`
+        }} />
       </head>
       <body className={outfit.className}>{children}</body>
     </html>
