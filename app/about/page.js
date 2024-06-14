@@ -46,7 +46,7 @@ export default function About() {
                 When I’m not at the computer,
                 I’m usually cooking, reading, hanging out with my cat, or persuading myself to hit the gym.
               </p>
-              <div class="border-t border-the-red mb-3 mx-auto"></div>
+              <div className="border-t border-the-red mb-3 mx-auto"></div>
               <div className="flex flex-col lg:flex-row lg:justify-between">
                 <Link 
                   className='italic font-prata text-the-red text-center lg:mr-2' 

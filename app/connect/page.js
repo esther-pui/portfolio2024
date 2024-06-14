@@ -24,7 +24,7 @@ export default function Connect() {
 
         <section className='relative z-10 pb-20'>
           <p className="font-prata text-the-red text-center">connect with me for work</p>
-          <div class="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
+          <div className="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
           <div className="flex flex-col lg:justify-center lg:flex-row">
             <Link 
               className='text-4xl mb-2 italic font-prata text-the-red text-center lg:mx-4' 
@@ -46,7 +46,7 @@ export default function Connect() {
 
         <section className='relative z-10 pb-20'>
           <p className="font-prata text-the-red text-center">get to know me personally</p>
-          <div class="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
+          <div className="border-t border-the-red mb-3 lg:w-1/2 mx-auto"></div>
           <div className="flex flex-col lg:justify-center lg:flex-row">
             
             <Link 
@@ -66,22 +66,6 @@ export default function Connect() {
               href="https://www.instagram.com/esther_pui/"
               target="_blank" rel="noopener noreferrer"
             >INSTAGRAM</Link>
-          </div>
-          <div className="flex flex-col lg:justify-center lg:flex-row">
-
-            <Link 
-              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
-              href="https://www.instagram.com/beixxiang/"
-              target="_blank" rel="noopener noreferrer"
-            >INSTA - ART</Link>
-
-            <Link 
-              className='text-4xl italic font-prata text-the-red text-center lg:mx-4' 
-              href="https://www.instagram.com/cat_jujube/"
-              target="_blank" rel="noopener noreferrer"
-            >INSTA - CAT</Link>
-
-            
           </div>
         </section>
       </div>
